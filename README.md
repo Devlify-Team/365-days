@@ -9,12 +9,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | Number | Project | Topic | Deliverable |
 | --- | --- | --- | --- |
 | [001](001/) | Create GitHub profile README | GitHub Setup | Exercise guide and editable profile README template |
+| [002](002/) | Setup GitHub Pages portfolio | GitHub Setup | Responsive static portfolio and scoped Pages deployment workflow |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. The first scheduled run should start with `001`, check the existing files, and preserve or complete that project without overwriting it or creating a duplicate. Later runs continue with `002`, `003`, and onward, using the challenge tracker. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `002` have been delivered; the next project is `003`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
