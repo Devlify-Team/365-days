@@ -1,0 +1,18 @@
+<type>(<scope>): <short imperative summary>
+
+Why:
+- <problem or learning goal>
+
+What:
+- <focused change; avoid unrelated edits>
+
+Checks:
+- python3 004/check_workflow.py --repo .
+- python3 -B -m unittest discover -s 004 -p 'test_*.py' -v
+
+Notes:
+- <limitations, follow-up, or none>
+
+# Example only: this template is not auto-installed.
+# Keep the subject concise; do not include secrets or generated noise.
+# Suggested types: feat, fix, docs, test, chore.
