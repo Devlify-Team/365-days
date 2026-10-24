@@ -13,12 +13,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [003](003/) | Learn Git branching strategies | Version Control | Isolated branching lab, real merge-conflict resolution, tests, and strategy guide |
 | [004](004/) | Git workflow best practices | Version Control | Read-only staged-change checker, tests, and commit/PR review templates |
 | [005](005/) | Create your first repository | Repo Management | Hello World starter, isolated first-commit demo, tests, and repository guide |
+| [006](006/) | Repository structure best practices | Repo Management | Dependency-free `src/`, `tests/`, and `docs/` example with layout guide |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `005` have been delivered; the next project is `006`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `006` have been delivered; the next project is `007`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
