@@ -17,12 +17,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [007](007/) | Write a comprehensive README | Documentation | README template, example project, and local-link/fence/content auditor |
 | [008](008/) | Add badges and shields | Documentation | Truthful badge examples and a local accessibility/placeholder checker |
 | [009](009/) | Explore awesome lists | Open Source | Annotated directory of cross-topic, Python, self-hosted, and GitLab discovery lists |
+| [010](010/) | Find good first issues | Open Source | Read-only GitHub issue finder, offline tests, and candidate-evaluation template |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `009` have been delivered; the next project is `010`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `010` have been delivered; the next project is `011`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
