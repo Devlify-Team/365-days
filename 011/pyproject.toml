@@ -1,0 +1,6 @@
+[project]
+name = "day011-ds-template"
+version = "0.1.0"
+description = "A small, privacy-conscious data-science project scaffold"
+requires-python = ">=3.9"
+dependencies = []
