@@ -1,0 +1,16 @@
+[project]
+name = "day012-reproducible-environment"
+version = "0.1.0"
+description = "A small example for reproducible Python dependencies"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas>=2.2,<4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8,<10",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
