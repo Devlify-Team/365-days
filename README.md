@@ -20,12 +20,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [010](010/) | Find good first issues | Open Source | Read-only GitHub issue finder, offline tests, and candidate-evaluation template |
 | [011](011/) | Setup data science project template | Data Science | Minimal Python project scaffold with data boundaries, CSV schema check, and tests |
 | [012](012/) | Create reproducible environment | Data Science | Locked Python dependencies, pinned interpreter, environment report, and tests |
+| [013](013/) | Jupyter notebook best practices | Notebooks | Notebook starter, clean-output JSON auditor, and tests |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `012` have been delivered; the next project is `013`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `013` have been delivered; the next project is `014`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
