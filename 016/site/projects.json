@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {"number":"001","title":"Create GitHub profile README","topic":"GitHub Setup","description":"Exercise guide and editable profile README template","readme":"../../001/README.md"},
+    {"number":"002","title":"Setup GitHub Pages portfolio","topic":"GitHub Setup","description":"Responsive static portfolio and scoped Pages deployment workflow","readme":"../../002/README.md"},
+    {"number":"003","title":"Learn Git branching strategies","topic":"Version Control","description":"Isolated branching lab, real merge-conflict resolution, tests, and strategy guide","readme":"../../003/README.md"},
+    {"number":"004","title":"Git workflow best practices","topic":"Version Control","description":"Read-only staged-change checker, tests, and commit/PR review templates","readme":"../../004/README.md"},
+    {"number":"005","title":"Create your first repository","topic":"Repo Management","description":"Hello World starter, isolated first-commit demo, tests, and repository guide","readme":"../../005/README.md"},
+    {"number":"006","title":"Repository structure best practices","topic":"Repo Management","description":"Dependency-free src, tests, and docs example with layout guide","readme":"../../006/README.md"},
+    {"number":"007","title":"Write a comprehensive README","topic":"Documentation","description":"README template, example project, and local-link/fence/content auditor","readme":"../../007/README.md"},
+    {"number":"008","title":"Add badges and shields","topic":"Documentation","description":"Truthful badge examples and a local accessibility/placeholder checker","readme":"../../008/README.md"},
+    {"number":"009","title":"Explore awesome lists","topic":"Open Source","description":"Annotated directory of cross-topic, Python, self-hosted, and GitLab discovery lists","readme":"../../009/README.md"},
+    {"number":"010","title":"Find good first issues","topic":"Open Source","description":"Read-only GitHub issue finder, offline tests, and candidate-evaluation template","readme":"../../010/README.md"},
+    {"number":"011","title":"Setup data science project template","topic":"Data Science","description":"Minimal Python project scaffold with data boundaries, CSV schema check, and tests","readme":"../../011/README.md"},
+    {"number":"012","title":"Create reproducible environment","topic":"Data Science","description":"Locked Python dependencies, pinned interpreter, environment report, and tests","readme":"../../012/README.md"},
+    {"number":"013","title":"Jupyter notebook best practices","topic":"Notebooks","description":"Notebook starter, clean-output JSON auditor, and tests","readme":"../../013/README.md"},
+    {"number":"014","title":"Share notebooks on GitHub","topic":"Notebooks","description":"Safe notebook visibility guide and GitHub/NBViewer/Binder link builder","readme":"../../014/README.md"},
+    {"number":"015","title":"Build a data analysis portfolio","topic":"Projects","description":"Accessible static portfolio starter, publication-aware case-study schema, and validation tests","readme":"../../015/README.md"}
+  ]
+}

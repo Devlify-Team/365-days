@@ -23,12 +23,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [013](013/) | Jupyter notebook best practices | Notebooks | Notebook starter, clean-output JSON auditor, and tests |
 | [014](014/) | Share notebooks on GitHub | Notebooks | Safe notebook visibility guide and GitHub/NBViewer/Binder link builder |
 | [015](015/) | Build a data analysis portfolio | Projects | Accessible static portfolio starter, publication-aware case-study schema, and validation tests |
+| [016](016/) | Create a project showcase | Projects | Responsive searchable showcase of projects 001–015 with integrity tests |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `015` have been delivered; the next project is `016`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `016` have been delivered; the next project is `017`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 

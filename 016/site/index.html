@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse completed daily software and documentation projects by topic.">
+  <title>Project Showcase · 365 Days</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="showcase.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#projects">Skip to projects</a>
+  <header class="hero">
+    <div class="container hero-grid">
+      <div>
+        <p class="eyebrow">DEVLIFY-TEAM · 365 DAYS</p>
+        <h1>Projects worth exploring.</h1>
+        <p class="intro">A searchable showcase of completed work, with a direct path to each project’s guide and files.</p>
+      </div>
+      <p class="counter" aria-label="Current showcase"><strong>001–015</strong><span>daily projects</span></p>
+    </div>
+  </header>
+  <main id="projects" class="container">
+    <div class="toolbar">
+      <div class="field">
+        <label for="search">Search projects</label>
+        <input id="search" type="search" placeholder="Try “Git” or “notebooks”" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="topic">Filter by topic</label>
+        <select id="topic"><option value="">All topics</option></select>
+      </div>
+      <button id="clear" class="clear-button" type="button">Clear filters</button>
+    </div>
+    <p id="status" class="status" role="status" aria-live="polite">Loading project list…</p>
+    <div id="project-list" class="project-grid" aria-describedby="status"></div>
+    <noscript>This project showcase needs JavaScript enabled to render its local project manifest.</noscript>
+  </main>
+  <footer class="container footer">
+    <p>Every card links to a project guide in this repository. Use each project README for its files, setup steps, and validation notes.</p>
+  </footer>
+</body>
+</html>
