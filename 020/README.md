@@ -93,10 +93,10 @@ jobs:
           python-version: '3.12'
       - name: Install pinned pytest
         run: python -m pip install --disable-pip-version-check -r requirements-test.txt
-        working-directory: 020
+        working-directory: '020'
       - name: Run the test suite
         run: python -m pytest -q
-        working-directory: 020
+        working-directory: '020'
 ```
 
 The actions are pinned to full commit SHAs, and the job grants only read access to repository contents. This follows GitHub’s security-hardening guidance on least-privilege `GITHUB_TOKEN` permissions and full-SHA action pinning ([Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions)). The `permissions` and workflow structure follow [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions). The workflow has no secrets, deployment step, artifact publishing, or write permission.
