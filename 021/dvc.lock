@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  train:
+    cmd: python src/train.py
+    deps:
+    - path: data/toy-training.csv
+      hash: md5
+      md5: 836e8524923c754309d11aca53c80caa
+      size: 24
+    - path: src/train.py
+      hash: md5
+      md5: 5e5272f77937656460bd05cb869c1388
+      size: 1228
+    outs:
+    - path: models/model.json
+      hash: md5
+      md5: 9fbb7b00f3ad03b721870638b3ec80fe
+      size: 39

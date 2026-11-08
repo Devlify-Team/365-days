@@ -1,0 +1,5 @@
+.dvc/cache/
+.dvc/tmp/
+models/model.json
+__pycache__/
+*.py[cod]

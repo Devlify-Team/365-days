@@ -28,12 +28,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [018](018/) | Code review best practices | Collaboration | Reviewer checklist, actionable review-note template, and offline note checker |
 | [019](019/) | Setup GitHub Actions | CI/CD | Path-scoped, read-only Python test workflow with pinned actions and local test example |
 | [020](020/) | Automated testing with pytest | CI/CD | Pytest fixtures, parametrized tests, pinned test dependency, and path-scoped Actions workflow |
+| [021](021/) | ML model versioning with DVC | ML Ops | Reproducible toy training stage and DVC-managed model artifact, with remote-storage setup guidance |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `020` have been delivered; the next project is `021`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `021` have been delivered; the next project is `022`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
