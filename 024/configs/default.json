@@ -1,0 +1,6 @@
+{
+  "n_samples": 300,
+  "test_size": 0.25,
+  "random_state": 42,
+  "max_iter": 1000
+}

@@ -1,0 +1,1 @@
+Put original project inputs here only when repository policy and licensing allow. Keep source data unchanged; document its origin, version, date, and permitted use. Do not commit sensitive or restricted data.
