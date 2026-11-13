@@ -33,12 +33,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [023](023/) | Create a Python package template | Templates | Minimal installable src-layout package with a CLI, tests, and adaptation checklist |
 | [024](024/) | Create a machine-learning project template | Templates | Reproducible scikit-learn classification scaffold with config, held-out evaluation, CLI, tests, and adaptation checklist |
 | [025](025/) | Contribute to documentation | Community | Contributor workflow, style guide, issue/PR templates, Markdown checker, and unit tests |
+| [026](026/) | Participate in discussions | Community | Discussion participation guide, question/idea/reply templates, draft checker, and tests |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `025` have been delivered; the next project is `026`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `026` have been delivered; the next project is `027`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
