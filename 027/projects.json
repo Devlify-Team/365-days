@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cli-task-list",
+    "category": "Developer tools",
+    "readme": "examples/cli-task/README.md"
+  },
+  {
+    "id": "data-helper",
+    "category": "Data",
+    "readme": "examples/data-helper/README.md"
+  },
+  {
+    "id": "web-starter",
+    "category": "Web",
+    "readme": "examples/web-starter/README.md"
+  }
+]
