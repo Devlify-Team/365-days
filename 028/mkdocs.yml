@@ -1,0 +1,21 @@
+site_name: Project Docs Starter
+site_description: A practical starting point for project documentation.
+site_dir: site
+strict: true
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Writing pages: writing-pages.md
+  - Publishing: publishing.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css

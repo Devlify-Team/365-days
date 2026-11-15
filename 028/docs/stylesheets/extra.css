@@ -1,0 +1,12 @@
+:root {
+  --md-text-font: system-ui, sans-serif;
+  --md-code-font: ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+
+.md-content h1 {
+  letter-spacing: -0.02em;
+}
+
+.md-content a {
+  text-underline-offset: 0.16em;
+}
