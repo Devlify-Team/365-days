@@ -1,0 +1,5 @@
+[project]
+name = "pre-commit-hook-starter"
+version = "0.1.0"
+description = "A starter configuration for consistent pre-commit checks"
+requires-python = ">=3.11"
