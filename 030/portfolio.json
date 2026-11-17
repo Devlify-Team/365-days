@@ -1,0 +1,43 @@
+{
+  "title": "Devlify-Team | 365 Days Portfolio",
+  "repository": "Devlify-Team/365-days",
+  "summary": "A curated selection of practical work from the 365-day GitHub challenge, spanning portfolio publishing, project discovery, reproducible machine learning, documentation, and developer workflow automation.",
+  "projects": [
+    {
+      "title": "Setup GitHub Pages portfolio",
+      "focus": "GitHub Pages and static publishing",
+      "description": "A responsive static portfolio starter with a path-scoped Pages deployment workflow.",
+      "path": "../002/"
+    },
+    {
+      "title": "Create a project showcase",
+      "focus": "Searchable project discovery",
+      "description": "A responsive searchable showcase for the early projects in this challenge repository.",
+      "path": "../016/"
+    },
+    {
+      "title": "ML model versioning with DVC",
+      "focus": "Reproducible machine learning",
+      "description": "A toy training stage and DVC-managed model artifact with guidance for remote storage.",
+      "path": "../021/"
+    },
+    {
+      "title": "Create a machine-learning project template",
+      "focus": "Scikit-learn project structure",
+      "description": "A configurable training and evaluation starter with tests and a reproducible pipeline.",
+      "path": "../024/"
+    },
+    {
+      "title": "Create project documentation site",
+      "focus": "MkDocs and documentation",
+      "description": "A searchable MkDocs site starter with navigation, authoring, and publishing guidance.",
+      "path": "../028/"
+    },
+    {
+      "title": "Set up pre-commit hooks",
+      "focus": "Developer workflow quality checks",
+      "description": "A pinned pre-commit configuration for consistent whitespace and configuration-file checks.",
+      "path": "../029/"
+    }
+  ]
+}
