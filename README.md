@@ -38,12 +38,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [028](028/) | Create project documentation site | Showcase | MkDocs site starter with navigation, authoring and publishing guides, strict build, and integrity tests |
 | [029](029/) | Set up pre-commit hooks | Advanced | Pinned pre-commit configuration for whitespace, YAML, TOML, and file-size checks, with integrity tests |
 | [030](030/) | Create your GitHub portfolio | Capstone | Portfolio generator curates verified challenge projects into a shareable Markdown page with local-link validation |
+| [031](031/) | Linear regression from scratch | Regression | Dependency-free batch-gradient-descent estimator with loss history, synthetic example, validation, and tests |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `030` have been delivered; the next project is `031`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `031` have been delivered; the next project is `032`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
