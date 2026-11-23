@@ -43,12 +43,13 @@ Each project lives in its own zero-padded folder: `001/`, `002/`, `003/`, and so
 | [033](033/) | Logistic regression from scratch | Classification | Dependency-free binary classifier with stable sigmoid and log loss, probability predictions, example, and tests |
 | [034](034/) | Decision tree implementation | Classification | Dependency-free Gini-based multiclass tree with numeric threshold search, probability predictions, example, and tests |
 | [035](035/) | Random forest from scratch | Ensemble | Bootstrap-sampled Gini trees with random per-node feature subsets, averaged class probabilities, reproducible example, and tests |
+| [036](036/) | Gradient boosting implementation | Ensemble | Squared-error regression ensemble adds shallow trees trained on residuals, with loss history, example, and tests |
 
 ## Daily continuation
 
 The existing daily schedule is set for **05:00 Africa/Lagos**. This repository does not create a second schedule or a GitHub Actions timer.
 
-Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `035` have been delivered; the next project is `036`. Preserve previous work and keep this index updated.
+Project `001` is the initial seed. Each scheduled run checks existing numbered folders and the matching workbook day, then adds the next undelivered project without repeating or overwriting earlier work. Projects through `036` have been delivered; the next project is `037`. Preserve previous work and keep this index updated.
 
 ## Day 001 note
 
